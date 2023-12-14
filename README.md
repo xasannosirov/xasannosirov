@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,python,c" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,linkedin,mysql,go" /><br>
+</div>
+</div>
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <br>
 <div align=center>
