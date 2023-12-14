@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://t.me/xasannosirov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://linkedin.com/xasannosirov/">
+  <a href="https://www.linkedin.com/xasannosirov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
