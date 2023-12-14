@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="badges">
+  <a href="https://t.me/xasannosirov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,linux,python,c" /><br>
