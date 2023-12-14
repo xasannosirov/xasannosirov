@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,linkedin,python,c,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,git,github,c,mysql,go,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,linux,go,postgresql" /><br>
 </div>
 </div>
 <h2 align="center">⚡️ Stats ⚡️</h2>
