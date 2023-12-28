@@ -27,17 +27,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-</div>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,linkedin,python,c,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,linux,go,postgresql" /><br>
-</div>
-</div>
-<h2 align="center">⚡️ Stats ⚡️</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=xasannosirov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=xasannosirov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+
 
