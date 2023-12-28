@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://raw.githubusercontent.com/xasannosirov/xasannosirov/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)
 <div id="badges">
   <a href="https://t.me/xasannosirov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
