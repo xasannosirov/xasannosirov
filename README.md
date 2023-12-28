@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xasannosirov&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xasannosirov&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xasannosirov&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xasannosirov&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xasannosirov&theme=aura&utcOffset=8)
 <div id="badges">
   <a href="https://t.me/xasannosirov">
