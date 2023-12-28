@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xasannosirov&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xasannosirov&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xasannosirov&theme=aura&utcOffset=8)
+
 <div id="badges">
   <a href="https://t.me/xasannosirov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -27,5 +28,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,linkedin,python,c,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,linux,go,postgresql" /><br>
+</div>
+
+
 
 
