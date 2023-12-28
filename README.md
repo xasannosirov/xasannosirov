@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={xasannosirov}&theme={aura}&exclude={exclude}
 <div id="badges">
   <a href="https://t.me/xasannosirov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
