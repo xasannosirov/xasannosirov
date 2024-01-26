@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Xasan,  Looking for backend opportunities
+### Hi there 👋 I'm Xasan,  Looking for backend opportunities
 
 - Check out my [blog](https://www.linkedin.com/in/xasannosirov) and my [resume](https://flowcv.com/resume/lw7ot34bed).
 - I’m currently studying on [Najot Ta'lim](https://najottalim.uz/).
