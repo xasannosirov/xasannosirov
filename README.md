@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Xasan,  Looking for backend opportunities
+### Hi there 👋 I'm Xasan, Software Engineer specialized in Backend with Golang
 
 - Check out my [blog](https://www.linkedin.com/in/xasannosirov) and my [resume](https://flowcv.com/resume/lw7ot34bed).
 - I’m currently studying on [Najot Ta'lim](https://najottalim.uz/).
