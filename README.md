@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Xasan, Software Engineer specialized in Backend with Golang
 
-- Check out my [blog](https://www.linkedin.com/in/xasannosirov) and my [resume](https://flowcv.com/resume/lw7ot34bed).
+- Check out my [blog](https://www.linkedin.com/in/xasannosirov)
 - I’m currently studying on [Najot Ta'lim](https://najottalim.uz/).
 - I’m currently learning [Golang](https://go.dev/) and Microservices Architecture.
 
