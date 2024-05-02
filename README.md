@@ -6,4 +6,4 @@
 - I have successfully completed a real project with team.
 - I'm looking for a new position as a Backend Developer with Golang.
 
-You can reach out to me via my [email](xasannosirov094@gmail.com)
+You can reach out to me via xasannosirov094@gmail.com
