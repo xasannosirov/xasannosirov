@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 📝 I regularly write articles on [https://linkedin.com/in/xasannosirov](https://linkedin.com/in/xasannosirov)
+- 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/xasannosirov)
 
 - 💬 Ask me about **Golang**
 
 - 📫 How to reach me **xasannosirov094@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/lw7ot34bed](https://flowcv.com/resume/lw7ot34bed)
+- 📄 Know about my experiences [resume](https://flowcv.com/resume/lw7ot34bed)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
