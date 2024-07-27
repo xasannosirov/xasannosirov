@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Xasan</h1>
+<h1 align="center">Hi there👋, I'm Xasan. I am Software Engineer specialized for backend with Golang</h1>
 <h3 align="center">A passionate Go backend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/xasannosirov)
-
-- 💬 Ask me about **Golang**
 
 - 📫 How to reach me **xasannosirov094@gmail.com**
 
