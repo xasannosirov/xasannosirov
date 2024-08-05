@@ -1,7 +1,6 @@
 # Hi👋 I am a Go backend developer
 
 ### I specialize in building robust and scalable backend systems using Go.
-### Welcome to my GitHub profile!
 
 ## 📫 How to reach me
 
