@@ -1,14 +1,7 @@
-# Hi👋 I am a Go backend developer
+### Hi there 👋 I am Xasan, Software Engineer at GeedBro backend architecture team.
 
-### I specialize in building robust and scalable backend systems using Go.
+- I want to learn React Native in the future.
+- Check out my [linkedin](https://linkedin.com/in/xasannosirov) and my [resume](https://flowcv.com/resume/lw7ot34bed).
+- I’m currently working on [RESTU app](https://play.google.com/store/apps/details?id=uz.restu.mobile).
 
-## 📫 How to reach me
-
-- [Email](mailto:xasannosirov094@gmail.com)
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xasannosirov)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xasannosirov)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xasannosirov)
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headhunter&logoColor=white)](https://tashkent.hh.uz/resume/9d71792aff0d80a9b50039ed1f73685a675a57)
+You can reach out to me via xasannosirov094@gmail.com
